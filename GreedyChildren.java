@@ -1,8 +1,3 @@
-/* Caitlin Hornbeek
-   Dr. Steinberg
-   COP3503 Fall 2023
-   Programming Assignment 3
-*/
 
 import java.io.BufferedReader;
 import java.io.FileReader;
