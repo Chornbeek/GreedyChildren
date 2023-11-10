@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Arrays;
 
-
+//Greedy Algorithm implementation
 public class GreedyChildren {
 	
 	public int greedyFactor[]; //Stores greedy factor of each child
